@@ -1,7 +1,7 @@
 # Blurry-Loading-page
 Simple page that loads a blurred image
 
-See the page here : https://sonas25.github.io/Blurry-Loading-page/
+See the page here : <a href="https://sonas25.github.io/Blurry-Loading-page/">   Blurry Loads </a>
 
 Time taken : under 30 minutes
 
